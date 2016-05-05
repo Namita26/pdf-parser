@@ -1,0 +1,722 @@
+[
+    {
+        "question_statement": "The diagram below represents the studentswho play cricket, football and kabaddi.A B C D E F GkabaddifootballcricketSeeing the diagram indicate the studentswho play all the 3 games.", 
+        "answer_options": "(A) A + B + C(B) G + E(C) D + E + G(D) D"
+    }, 
+    {
+        "question_statement": "If each circle represents a class of objects/ideas, written below then find out theanswer figure which illustrates better therelationship among them:aCats, Rats, Animalsa", 
+        "answer_options": "(A) (B) (C) (D) "
+    }, 
+    {
+        "question_statement": "If   146A=55x,  what is x?", 
+        "answer_options": "(A) 4(B) 10(C) 8(D) "
+    }, 
+    {
+        "question_statement": "Which number gives the same result whenadded to 112 and when multiplied by 112?", 
+        "answer_options": "(A) 1(B) 3(C) 5(D) "
+    }, 
+    {
+        "question_statement": "A clock goes fast by one minute during thefirst hour, by two minutes at the end of thesecond hour, by 4 minutes at the end of 3rdhour, by eight minutes by the end of 4thhour, and so on. At the end of which hour,will it be fast by just over sixty minutes?", 
+        "answer_options": "(A) Fifth(B) Sixth(C) Seventh(D) Eighth"
+    }, 
+    {
+        "question_statement": " What is the actual time?", 
+        "answer_options": "(A) "
+    }, 
+    {
+        "question_statement": "A, B, C, D and E are 5 schools facing towardsnorth. A is in the middle of E and B. E is tothe right of D. If C and D are at two ends,which school is on the left side of C?", 
+        "answer_options": "(A) E(B) A(C) D(D) B"
+    }, 
+    {
+        "question_statement": "A is father of B and C.B is the son of A.But C is not the son of A.How is C related to A?", 
+        "answer_options": "(A) Niece(B) Son-in-law(C) Daughter(D) Grandson"
+    }, 
+    {
+        "question_statement": "Hari is twice as old as Johnny, who is threeyears older than Rahul. If Harias age is fivetimes Rahulas age, how old is Johnny?", 
+        "answer_options": "(A) 2 years(B) 4 years(C) 5 years(D) 8 yearsDirections: In questions no. 10 and 11, a wordgiven in capital letters is followed by fouranswer words. Out of these only one cannotbe formed by using the letters of the givenword. Find out that word."
+    }, 
+    {
+        "question_statement": "CATERING", 
+        "answer_options": "(A) ARGENTIC(B) CREATING(C) RETIRING(D) REACTING"
+    }, 
+    {
+        "question_statement": "STCTRUIONMISCON", 
+        "answer_options": "(A) STRICT(B) CONSTRUCTION(C) STATION(D) MOTION"
+    }, 
+    {
+        "question_statement": "Which one of the following responses iscorrect?8ia5ia27ia3ia16", 
+        "answer_options": "(A) A, =, -, +(B) -, =, A, +(C) A, =, +, -(D) +, -, =, A"
+    }, 
+    {
+        "question_statement": "In a code language the following alphabetsare coded in a particular way: A   C   D  E G  H   K  L  M N   O  Si!   i  io  i i i i3/4i ii ia ii i+- i2Which word can be decoded from thefollowing?i3/4i i+-i iai i!i ii i", 
+        "answer_options": "(A) HONEST(B) HOMAGE(C) HOCKEY(D) HOSTELSSC MOCK TEST-1\f"
+    }, 
+    {
+        "question_statement": "In a certain language, BUTTER is coded asCVUUFS, BREAD is coded as CSFBE, thenhow COFFEE is coded?", 
+        "answer_options": "(A) DPGGFF(B) GGDPFF(C) GDPGFF(D) FFDPGG"
+    }, 
+    {
+        "question_statement": "If CLOUD can be coded as 59432 and RAINas 1678, how can AROUND be coded?", 
+        "answer_options": "(A) 614832(B) 614382(C) 641382(D) 461382Directions: (Question Nos. 16 to 17) Astatement is given followed by twoconclusions, I and II. You have to consider thestatement to be true, even if it seems to be atvariance from commonly known facts. You areto decide which of the given conclusions candefinitely be drawn from the given statementIndicate your answer."
+    }, 
+    {
+        "question_statement": "Statements : Use of cosmetics is hazardous.Conclusions : I. Cosmetics have side effects.                   II.  Cosmetics are inexpensive.", 
+        "answer_options": "(A) Only I follows(B) Only II follows(C) Both I and II follow(D) Neither I nor II follows"
+    }, 
+    {
+        "question_statement": "Statement : Honesty and hard work lead toeconomic improvement of an individual.Conclusions : I. There is a direct relationbetween honesty and economicimprovement.II. Hard work and honesty always paydividends.", 
+        "answer_options": "(A) I is implicit(B) II is implicit(C) I and II are implicit(D) I and II are not implicitDirections: In questions no. 18 to 20, selectthe related letters/word /number from thegiven alternatives."
+    }, 
+    {
+        "question_statement": "72 : 18 : : 56 : ?", 
+        "answer_options": "(A) 24(B) 22(C) 20(D) "
+    }, 
+    {
+        "question_statement": "Sleep : Rest : : Play : ?", 
+        "answer_options": "(A) Enjoyment(B) Learning(C) Injury(D) Champion"
+    }, 
+    {
+        "question_statement": "LKJ : MNO : : DCB : ?", 
+        "answer_options": "(A) FEG(B) EGF(C) FGH(D) EFG"
+    }, 
+    {
+        "question_statement": "Which one set of letters when sequentiallyplaced at the gaps in the given letter seriesshall complete it?_ a _ aaaba _ _ ba _ ab _", 
+        "answer_options": "(A) abaaaa(B) abaaba(C) aababa(D) ababaaDirections: Question Nos. 22 to 24, Find themissing number/letters/figure from the givenresponses."
+    }, 
+    {
+        "question_statement": "(?),   PSVYB,   EHKNQ,   TWZCF,   ILORU", 
+        "answer_options": "(A) BEHKN(B) ADGJM(C) SVYBE(D) ZCFIL"
+    }, 
+    {
+        "question_statement": "0, 4, 18, 48, ?, 180", 
+        "answer_options": "(A) 58(B) 68(C) 84(D) "
+    }, 
+    {
+        "question_statement": "36, 28, 24, 22, ?", 
+        "answer_options": "(A) 18(B) 19(C) 21(D) "
+    }, 
+    {
+        "question_statement": "Certain equations are based on a certainsystem. Find out the correct answer for theunsolved equation on that basis:If  14 A 13 = 128 and 16 A 13 = 280 then15 A 11 = ?", 
+        "answer_options": "(A) 516(B) 156(C) 165(D) 615Directions: Questions Nos. 26 to 28, select themissing number from the given responses."
+    }, 
+    {
+        "question_statement": "549 650 ?18 15 17 19 15 14 ", 
+        "answer_options": "(A) 210(B) 225(C) 196(D) "
+    }, 
+    {
+        "question_statement": "138515 96?124156043260", 
+        "answer_options": "(A) 16(B) 32(C) 29(D) "
+    }, 
+    {
+        "question_statement": "173(24)526431(18)325253(?)471", 
+        "answer_options": "(A) 22(B) 42(C) 30(D) "
+    }, 
+    {
+        "question_statement": "i(r)stands for +, i!stands for -, istandsfor A*, i-stands for A, istands for =, whichone is correct?", 
+        "answer_options": "(A) 2i-5i!6i(r)2i6(B) 5i(r)7i!4i2i3(C) 3i-6i2i(r)3i!6i5(D) 7i!43i6i-1i4\f"
+    }, 
+    {
+        "question_statement": "All men are mortal.Ramu is a man.", 
+        "answer_options": "(A) No man is mortal.(B) Ramu is mortal.(C) Ramu is immortal.(D) All men are immortal."
+    }, 
+    {
+        "question_statement": "The following equations follow a commonproperty. Find out the correct value tocomplete D:A = 51 (714) 14;B = 61 (915) 15;C = 71 (1136) 16;D = 81 (?)17", 
+        "answer_options": "(A) (1377)(B) (1378)(C) (1356)(D) (1346)"
+    }, 
+    {
+        "question_statement": "Some questions are solved on the basis of acertain system. Identify that operation andfind out the correct answer from the fourresponses given.a = 14(290)15b = 16(330)17c = 18(?)19", 
+        "answer_options": "(A) 300(B) 270(C) 170(D) "
+    }, 
+    {
+        "question_statement": "If a mirror is placed on the line MN, thenwhich of the answer figures is the rightimage of the given question figure?Question figureMNAnswer figures", 
+        "answer_options": "(A)(B)(C)(D)"
+    }, 
+    {
+        "question_statement": "Question figures?Answer figures", 
+        "answer_options": "(A)(B)(C)(D)"
+    }, 
+    {
+        "question_statement": "Question figure###::::?Answer figures####", 
+        "answer_options": "(A)(B)(C)(D)"
+    }, 
+    {
+        "question_statement": "Which one of the answer figure shall becomplete the given question figure?Question figureAnswer figures", 
+        "answer_options": "(A)(B)(C)(D)"
+    }, 
+    {
+        "question_statement": "A series of figures are given which can begrouped into classes. From the responsesselect the groups into which the figure canbe classified?123456789", 
+        "answer_options": "(A) 1,3,9; 2,6,7; 4,5,8(B) 1,3,9; 2,7,8; 4,5,6(C) 1,3,9; 4,5,7; 2,6,8(D) 1,3,5; 2,4,9; 6,7,"
+    }, 
+    {
+        "question_statement": "How many rectanges are there in the figure?", 
+        "answer_options": "(A) 24(B) 16(C) 22(D) 14\f"
+    }, 
+    {
+        "question_statement": "Statements:All desks are rooms.All rooms are halls.Conclusions:I. All desks are halls.II. Some halls are rooms.", 
+        "answer_options": "(A) I and II follow(B) Only I follows(C) Only II follows(D) None follows"
+    }, 
+    {
+        "question_statement": "Statements:Some pens are tables.All tables are umbrellasConclusions:I.All pens are umbrellas.II.All umbrellas are tables.", 
+        "answer_options": "(A) Only I follows(B) Only II follows(C) I and II follow(D) None followsDirections: (Q. No. 41 to 45, Study the followinginformations carefully and answer the questionsgiven below:B, M, K, H, T, R, D, W and A are sittingaround a circle facing the centre. R is thirdto the right of B. H is second to the right of Awho is second to the right of R. K is third tothe right of T who is not an immediateneighbour of H. D is second to the left of T.M is fourth to the right of W."
+    }, 
+    {
+        "question_statement": "Who is to the immediate left of W?", 
+        "answer_options": "(A) R(B) T(C) B(D) None of these"
+    }, 
+    {
+        "question_statement": "Who is third to the left of M?", 
+        "answer_options": "(A) B(B) W(C) K(D) None of these"
+    }, 
+    {
+        "question_statement": "Who is third to the left of H?", 
+        "answer_options": "(A) T(B) K(C) R(D) Data inadequate"
+    }, 
+    {
+        "question_statement": "Who is to the immediate left of D?", 
+        "answer_options": "(A) H(B) M(C) B(D) None of these"
+    }, 
+    {
+        "question_statement": "In which of the following combinations is thethird person sitting in between the first andthe second persons?", 
+        "answer_options": "(A) BDT(B) MHD(C) KAM(D) WKRDirections (Q. 46-50): Study the followinginformation carefully to answer thesequestions.Eight members A, B, C, D, E, F, G and Hbelonging to three families X, Y, Z go for weekendouting in three different cars I, II, III. Four out ofeight members are females. Members of any onefamily travel in different cars. Each car has atleast one male and one female member. Eachfamily has at least two members.A belongs to family Y and he travels in car III. Dis wife of E and they travel in cars I & II respectively.H is son of B who is wife of G and they belong tofamily Z. C is daughter of F who is wife of A. Ctravels in car II. G does not travel with F."
+    }, 
+    {
+        "question_statement": "Which of the following group of personstravel in car I?", 
+        "answer_options": "(A) D, F, G(B) D, G, H(C) D, F, H(D) None of these"
+    }, 
+    {
+        "question_statement": "Which car has only two members travellingin it?", 
+        "answer_options": "(A) II(B) III(C) II or III(D) Cannot be determined"
+    }, 
+    {
+        "question_statement": "Which of the following of families Y & Ztravel in different cars?", 
+        "answer_options": "(A) F, G(B) C, G(C) C, F(D) None of these"
+    }, 
+    {
+        "question_statement": "Which of the following group of persons is agroup of all females?", 
+        "answer_options": "(A) B, D, G(B) A, B, C(C) B, E, F(D)  None of these"
+    }, 
+    {
+        "question_statement": "Which of the following members of familiesX & Y travel in the same car?", 
+        "answer_options": "(A) C, F(B) D, F(C) C, D(D)  None of these\f"
+    }, 
+    {
+        "question_statement": "5Part - II ", 
+        "answer_options": "(Arithmetic)"
+    }, 
+    {
+        "question_statement": "008is", 
+        "answer_options": "(A) "
+    }, 
+    {
+        "question_statement": "If 1x +  = 4x, then 331x + x is", 
+        "answer_options": "(A) 64(B) 32(C) 52(D) "
+    }, 
+    {
+        "question_statement": " The smaller number is", 
+        "answer_options": "(A) 39(B) 49(C) 66(D) "
+    }, 
+    {
+        "question_statement": " If the same number is dividedb y 17, the remainder will be", 
+        "answer_options": "(A) 9(B) 7(C) 3(D) "
+    }, 
+    {
+        "question_statement": "Simplified form of535553ioi>>i1iai<<i(c)i*i,iPiSSi\"i|ii//x", 
+        "answer_options": "(A) x5(B) x-5(C) x(D) x"
+    }, 
+    {
+        "question_statement": "11111-1-1-.............1-isequalto567100i|iPi|iPi|iPi|iPiSSi*iSSi*iSSi*iSSi*i\"i,i\"i,i\"i,i\"i,", 
+        "answer_options": "(A) 0(B) 251(C) 1001(D) "
+    }, 
+    {
+        "question_statement": "The sum of n terms of the series231111+++.........is222", 
+        "answer_options": "(A) 1212iinn(B)22121iiinn(C) n22i(D) nn212i"
+    }, 
+    {
+        "question_statement": " Ifthe distance between two points in the  mapis 4 cm, what is the actual distance betweenthe two points?", 
+        "answer_options": "(A) 16 cm(B) 16 m(C) 16 km(D) 4 km"
+    }, 
+    {
+        "question_statement": "The sum of the digits of the smallest numberwhich when multiplied by 900, gives aperfect cube is", 
+        "answer_options": "(A) 2(B) 3(C) 6(D) "
+    }, 
+    {
+        "question_statement": "The sum of the interior angles of a convexrectilinear figure is equal to the sum of theexterior angles. Then the number of sides is", 
+        "answer_options": "(A) 4(B) 5(C) 6(D) "
+    }, 
+    {
+        "question_statement": "If a commission of 10% is given on themarked price of an article, the gain is 20%.The gain percent, when the commission isincreased to 20%, will be", 
+        "answer_options": "(A) 326(B) 5(C) 8(D) "
+    }, 
+    {
+        "question_statement": "The difference between a discount of 40%on ` 500 and two successive discount of 30%and 10% on the same amount is", 
+        "answer_options": "(A) ` 15(B) 0(C) ` 20(D) ` "
+    }, 
+    {
+        "question_statement": "A train with a uniform speed passes aplatform, 122 meters long, in 17 secondsand a bridge, 210 meters long, in 25seconds. The speed of the train is", 
+        "answer_options": "(A) "
+    }, 
+    {
+        "question_statement": "If x : y = 2:5 , then (5x + 3y) : (5x - 3y) isequal to", 
+        "answer_options": "(A) 5(B) 3(C) -3(D) -"
+    }, 
+    {
+        "question_statement": "A mixture of 40 litres of milk and watercontains 10% of water. How much watermust be added to make the water 20% inthe new mixture?", 
+        "answer_options": "(A) 10 litres(B) 7 litres(C) 5 litres(D) 3 litres\f"
+    }, 
+    {
+        "question_statement": "A circle and a square have equal areas. Theratio of a side of the square and the radiusof the circle is?", 
+        "answer_options": "(A) 1 :ideg(B) ideg : 1(C) 1 :ideg(D) ideg : "
+    }, 
+    {
+        "question_statement": "If A : B = 1 : 2, B : C = 3 : 4, C : D = 6 : 9  andD : E = 12 : 16, then A : B : C : D : E is equal to", 
+        "answer_options": "(A) 1 : 3 : 6 : 12 : 16(B) 2 : 4 : 6 : 9 : 16(C) 3 : 4 : 8 : 12 :16(D) 3 : 6 : 8 : 12 : "
+    }, 
+    {
+        "question_statement": "A sum of money doubles itself at some rateof compound interest in 15 years. In howmany years will it become eight times ofitself with the same rate?", 
+        "answer_options": "(A) 30(B) 45(C) 48(D) "
+    }, 
+    {
+        "question_statement": "The value of a property decreases every yearat the rate of 5%. If its present value is ` 4,11, 540, what was its value 3 years ago?", 
+        "answer_options": "(A) ` 4, 50, 000(B) ` 4, 60, 000(C) ` 4, 75, 000(D) ` 4, 80, "
+    }, 
+    {
+        "question_statement": "The price of an article has been reduced by25%. In order to restore the original price,the new price must be increases by?", 
+        "answer_options": "(A) 1119(B) 9111(C) 3133(D) "
+    }, 
+    {
+        "question_statement": " The reduced per kg price of rice is?", 
+        "answer_options": "(A) ` 30(B) ` 25(C) ` 20(D) ` "
+    }, 
+    {
+        "question_statement": "If x = 5 + 26, then the value ofi*i,iPiSSi\"i|i<<xx1is", 
+        "answer_options": "(A) 22(B) 23(C) 32(D) "
+    }, 
+    {
+        "question_statement": "The least number, that must be added to1720 so as to obtain a perfect cube, is", 
+        "answer_options": "(A) 7(B) 8(C) 11(D) "
+    }, 
+    {
+        "question_statement": "The greatest number among 260,348, 436 and524 is", 
+        "answer_options": "(A) 260(B) 348(C) 436(D) "
+    }, 
+    {
+        "question_statement": " Oneof the numbers is 51 of the other. Thesmaller number is", 
+        "answer_options": "(A) "
+    }, 
+    {
+        "question_statement": "P, Q, R are three points so that PQ = 3 cm,QR = 5 cm and PR = 8 cm. Number of circlespassing through the points P, Q, R is", 
+        "answer_options": "(A) 0(B) 1(C) 2(D) "
+    }, 
+    {
+        "question_statement": "AB is the diameter of a circle and ABCD is acyclic quadrilateral in it. If iACD = 40Ao, thenthe measure of iBAD is", 
+        "answer_options": "(A) 50Ao(B) 40Ao(C) 80Ao(D) 90Ao"
+    }, 
+    {
+        "question_statement": "A person went from A to B at an averagespeed of x km/hr. and returned from B to Aat an average speed of y km/hr. What washis average speed during the total journey?", 
+        "answer_options": "(A) xyyx2i<<(B) yxxyi<<2(C) yxi<<2(D) yx11i<<"
+    }, 
+    {
+        "question_statement": " Monthly salaryof B is", 
+        "answer_options": "(A) ` 12, 400(B) ` 12, 800(C) ` 15, 200(D) ` 16, "
+    }, 
+    {
+        "question_statement": "The average age of ten members of acommittee is the same as it was 2 years ago,as an old member has been replaced by ayoung member. How much younger is thenew member to the old member?", 
+        "answer_options": "(A) 20 years(B) 15 years(C) 10 years(D) 2 years"
+    }, 
+    {
+        "question_statement": "The cost price of  20 articles is equal to theselling price of 15 articles. The profit percentis", 
+        "answer_options": "(A) 3216(B) 20(C) 3133(D) "
+    }, 
+    {
+        "question_statement": "The compound interest on  ` 2, 400 at therate of 8% per annum for 6 months, whenthe interest is to be calculated half-yearly,will be", 
+        "answer_options": "(A) ` 192(B) ` 196(C) ` 96(D) ` 48\f"
+    }, 
+    {
+        "question_statement": "In a partnership business. A invests 41 ofthe capital for 31of the time, B invests 61 ofthe capital for 41of the time and C, the restof the capital for the whole time. Out of aprofit of ` 9, 962 . A's share is", 
+        "answer_options": "(A) ` 1, 172(B) ` 1, 586(C) ` 2, 804(D) ` 4, "
+    }, 
+    {
+        "question_statement": "40 minutes more is required to cover acertain distance at a speed of 6 km/hr. thancovering the same distance at a speed of 8km./hr. The distance covered in km is", 
+        "answer_options": "(A) 8(B) 12(C) 14(D) "
+    }, 
+    {
+        "question_statement": "A man takes 4 hours 30 minutes to walk acertain distance and riding back. He couldwalk both ways in 8 hours 20 minutes. Thetime he will take to ride both ways is", 
+        "answer_options": "(A) 20 minutes(B) 30 minutes(C)  40 minutes(D) 1 hour"
+    }, 
+    {
+        "question_statement": " The cost price of the article is", 
+        "answer_options": "(A) ` 100(B) ` 120(C) ` 150(D) ` "
+    }, 
+    {
+        "question_statement": " Whatshould be the selling price of each egg if hewants to make a profit of 20%?", 
+        "answer_options": "(A) ` "
+    }, 
+    {
+        "question_statement": " Thepresent cost of rice per kg is", 
+        "answer_options": "(A) ` 8(B) ` 9(C) ` 16(D) ` "
+    }, 
+    {
+        "question_statement": "5, then thevalue of  a3 + b3 + c3 - 3abc is", 
+        "answer_options": "(A) 11(B) 10(C) 3(D) "
+    }, 
+    {
+        "question_statement": "The greates number among58732,3,4and9", 
+        "answer_options": "(A) 32(B) 53(C) 74(D) "
+    }, 
+    {
+        "question_statement": "If 22sinq+cosecq=x then the value of xwill be -", 
+        "answer_options": "(A) 2iPSx(B) 1iPSx(C) 1i3x(D) 2i3x"
+    }, 
+    {
+        "question_statement": "If 411i1/2ii<<i<<xxxxcossincossin and 00 < 900, thenthe value of x is&", 
+        "answer_options": "(A) 100(B) 150(C) 300(D) "
+    }, 
+    {
+        "question_statement": "If 00 < i+- < 900 and tan i+- =............i<<i<<i<<666then the value ofi+-2sec is&", 
+        "answer_options": "(A) 4(B) 10(C) 34(D) "
+    }, 
+    {
+        "question_statement": "What is the angle of elevation of the sun,when the length of the shadow of a tree is3 times the height of the tree", 
+        "answer_options": "(A) 900(B) 600(C) 450(D) "
+    }, 
+    {
+        "question_statement": " If S denotes the area of the curved surface ofa right circular cone of height h andsemivertical angle i!then S equals", 
+        "answer_options": "(A) i!ideg22tanh(B)  i!ideg2231tanh(C) i!i!idegtansec2h(D) i!i!idegtansec231hDirections (97 - 100): Study the following tableand answer the questions based on it :(In ` Lacks)XYZ Co. Pvt. Ltd.2005    "
+    }, 
+    {
+        "question_statement": " In which year the difference between the totalsales and the gross profit is the least\\", 
+        "answer_options": "(A) 2005(B) 2006(C) 2007(D) "
+    }, 
+    {
+        "question_statement": "The total sale in 2008 is approximately whatpercent of the total sales of 2005?", 
+        "answer_options": "(A) 75(B)  85(C) 100(D) "
+    }, 
+    {
+        "question_statement": " Which years show increase in all categoriessimultaneously i.e. total sales, gross profitand net profit as compared to the previousyear?", 
+        "answer_options": "(A) 2008 and 2009 both(B) 2009 and 2007both(C) 2007 and 2008 both(D) 2005 and 2006 both"
+    }, 
+    {
+        "question_statement": " The percent increase in the gross profit wasthe maximum in which year as comparedto the previous one?", 
+        "answer_options": "(A) 2006(B) 2007(C) 2008(D) 2009\f"
+    }, 
+    {
+        "question_statement": "Dayanand Sarswati was born in aBrahman family.Which of the statements given above arecorrect?", 
+        "answer_options": "(A) 1, 2 and 3(B) 1 and 2 only(C) 2 and 3 only(D) 1 and 3 only"
+    }, 
+    {
+        "question_statement": "The doctrines of anon-violencea and acivildisobediencea associated with MahatmaGandhi were influenced by the works of", 
+        "answer_options": "(A) Churchill-Irwin-Tolstoy(B) Ruskin-Tolstoy-Thoreau(C) Thoreau-Hume-Shaw(D) Cripps-Tolstoy-Howes"
+    }, 
+    {
+        "question_statement": "Consider the following passage:It urged people to resign from governmentoffices, shun the British law-courts,withdraw from schools and colleges andboycott the elections. On the other hand,there was a campaign for using indigenousgoods, especially khadi or homespun cloth.Which movement does the above passagerelate to?", 
+        "answer_options": "(A) Swadeshi(B) Non-cooperation(C) Civil Disobedience(D) Quit India"
+    }, 
+    {
+        "question_statement": "Which one among the following was not aprogramme adopted by the Congress whilelaunching the non-cooperation movement?", 
+        "answer_options": "(A)Surrender of titles and honorary offices,resignation from nominated seats inlocal bodies, boycott of the official andsemi official functions(B)Withdrawal of children fromgovernment schools and colleges(C)Boycott of elections, foreign goods andgovernment courts(D)Refusal to pay the revenues to thegovernment"
+    }, 
+    {
+        "question_statement": "The Chola kings were ruling over", 
+        "answer_options": "(A) Tamil Nadu(B) Andhra(C) Kerala(D) BengalPart - III (General Awareness)"
+    }, 
+    {
+        "question_statement": "Why was the Simon Commission boycottedby the Indians?", 
+        "answer_options": "(A)It did not include any Indian as amember(B)It did not have any woman member(C)It was appointed before the stipulatedtime(D)It refused to meet prominent Indianleaders"
+    }, 
+    {
+        "question_statement": "Who was the first Indian to becomemember of British Parliament?", 
+        "answer_options": "(A) W.C. Bannerjee(B) Behramji M. Malabari(C) D.N. Wacha(D) Dadabhai Naoroji"
+    }, 
+    {
+        "question_statement": "Fahienas mission to India was to", 
+        "answer_options": "(A)Learn about the administrative systemof the Gupta kings(B)Understand the social position of womenduring the Gupta period(C)Visit the Buddhist institutions and tocollect copies of Buddhist manuscripts(D)Get full knowledge about the conditionof peasants during the period of Guptakings"
+    }, 
+    {
+        "question_statement": "Which British Military Officer defeated TipuSultan in India, Napolean Bonaparte inEurope and eventually became the Duke ofWellington?", 
+        "answer_options": "(A) Arthur Wellesley(B) Robert Clive(C) Warren Hastings(D) Richard Wellesley"
+    }, 
+    {
+        "question_statement": "The Ashtadhyayi of Panini, theMahabhasya of Patanjali and the KashikaVritti of Jayaditya deal with", 
+        "answer_options": "(A) Principles of Law(B) Principle of Phonetics(C) Principles of Grammar(D) Principle of Linguistics"
+    }, 
+    {
+        "question_statement": "On the tributary of which river has RihandDam been constructed?", 
+        "answer_options": "(A) Chambal(B) Yamuna(C) Son(D) Periyar"
+    }, 
+    {
+        "question_statement": "The length of Indiaas coastline is about", 
+        "answer_options": "(A) 4900 kms(B) 5700 kms(C) 7500 kms(D) 8300 kms\f"
+    }, 
+    {
+        "question_statement": "Which one among the following is the mostimportant reason behind the prevalence ofextreme type of climate in different partsof India?", 
+        "answer_options": "(A)The long latitudinal extent(B) The east-west alignment of theHimalayas(C)The peninsular location of the country(D)The significant variation in altitude"
+    }, 
+    {
+        "question_statement": "Why western coast of India receives heavyrainfall but the Deccan Plateau receivesvery little?", 
+        "answer_options": "(A)The Deccan Plateau is situated on thebeeward side of the Western Ghats(B)The region is simply bypassed by thesouth-west monsoon(C)There is lack of high mountains in theDeccan Plateau(D)There is weak low pressure belt"
+    }, 
+    {
+        "question_statement": "Which one of the following statements isnot correct?", 
+        "answer_options": "(A)Kandla is a tidal part(B) Cochin part is located at the entrance ofa lagoon(C)Chennai is a natural harbour(D)Visakhapatnam is the deepest landlockedport in India"
+    }, 
+    {
+        "question_statement": "Which one of the following countries doesnot border Lake Victoria?", 
+        "answer_options": "(A) Kenya(B) Tanzania(C) Uganda(D) Zambia"
+    }, 
+    {
+        "question_statement": "Which one of the following zones of theatmosphere is rich in ozone gas?", 
+        "answer_options": "(A) Mesosphere(B) Troposphere(C) Stratosphere(D) Ionosphere"
+    }, 
+    {
+        "question_statement": "Which one of the following is the firstNational Park established in India?", 
+        "answer_options": "(A) Bandipur(B) Corbett(C) Velavadar(D) Periyar"
+    }, 
+    {
+        "question_statement": "Which one of the following lakes in theIndia has the highest water salinity?", 
+        "answer_options": "(A) Dal(B) Chilika(C) Wular(D) Sambhar"
+    }, 
+    {
+        "question_statement": "In which one of the following islands ofIndia is an active volcano found?", 
+        "answer_options": "(A) Car Nicobar Island(B) Nancowry Island(C) Barren Island(D) Maya Bunder Island"
+    }, 
+    {
+        "question_statement": "Which one of the following is advancegrants made by the House of People inrespect of the estimated expenditure for apart of the ensuing financial year, pendingthe regular passage of the budget?", 
+        "answer_options": "(A) Supplementary grants(B) Special grants(C) Vote on credit(D) Vote on account"
+    }, 
+    {
+        "question_statement": "his salaries and expenses are chargedon the Consolidated Fund of India.Select the correct answer using the codegiven below:", 
+        "answer_options": "(A) 1, 2 and 3(B) 1 and 2 only(C) 3 and 4(D) 2 and "
+    }, 
+    {
+        "question_statement": "Who among the following Prime Ministersof India never had to seek trust vote (voteof confidence) from the Lok Sabha?", 
+        "answer_options": "(A) Indira Gandhi(B) P.V. Narasimha Rao(C) H.D. Devegowda(D) Manmohan Singh"
+    }, 
+    {
+        "question_statement": "Who among the following Prime Ministersof India has not presented the budget?", 
+        "answer_options": "(A) Jawaharlal Nehru(B) Morarji Desai(C) Indira Gandhi(D) Rajeev Gandhi"
+    }, 
+    {
+        "question_statement": "The Parliament is entitled to enact a lawof preventive detention for reasonsconnected with.", 
+        "answer_options": "(A) defence(B) foreign affairs(C) security of India(D) all the above"
+    }, 
+    {
+        "question_statement": "The item aEducationa belongs to the", 
+        "answer_options": "(A) Union List(B) State List(C) Concurrent List(D) Residuary Subjects"
+    }, 
+    {
+        "question_statement": "Who were the three eminent statementwho started the Non-aligned Movement?", 
+        "answer_options": "(A)Jawaharlal Nehru, Anwar Sadat,Soekarno(B)Jawaharlal Nehru, Chou En-lai, KwameNkrumah(C)Jawaharlal Nehru, Fidel-Castro,Marshal Tito(D)Jawaharlal Nehru, Gamal Abdul Nasser,Marshal Tito\f"
+    }, 
+    {
+        "question_statement": "What is the maximum time intervalpermitted between two sessions ofParliament?", 
+        "answer_options": "(A) 4 months(B) 6 months(C) 8 months(D) 9 months"
+    }, 
+    {
+        "question_statement": "The Presidential Government operates onthe principle of", 
+        "answer_options": "(A)Division of Powers between Centre and States(B)Centralisation of Power(C)Balance of Powers(D)Separation of Powers"
+    }, 
+    {
+        "question_statement": "Who is empowered to transfer a Judge fromone High Court to another High Court?", 
+        "answer_options": "(A) Chief Justice of India(B) President of India(C) Law Minister of India(D) The Union Cabinet"
+    }, 
+    {
+        "question_statement": "Persons who are colour-blind cannotdistinguish between", 
+        "answer_options": "(A) yellow and white(B) green and blue(C) red and green(D) black and yellow"
+    }, 
+    {
+        "question_statement": "Estrogen and Progesterone control andstimulate the growth in", 
+        "answer_options": "(A) Pituitary Gland(B) Thyroid Gland(C) Mammary Gland(D) Supra Renal Gland"
+    }, 
+    {
+        "question_statement": "The basic chemical building block of naturalrubber obtained from trees is", 
+        "answer_options": "(A) Isoprene(B) Vinyl Chloride(C) Acetylene(D) Neoprene"
+    }, 
+    {
+        "question_statement": "The biological death of a patient means thedeath of tissues of the", 
+        "answer_options": "(A) kidney(B) heart(C) brain(D) lungs"
+    }, 
+    {
+        "question_statement": "The surface tension of water on addingdetergent to it", 
+        "answer_options": "(A) increases(B) decreases(C) no change(D) becomes zero"
+    }, 
+    {
+        "question_statement": "It is easier to carry two buckets of water eachin one hand, than to carry only one in one handbecause", 
+        "answer_options": "(A)weights of buckets are balanced(B)centre of gravity falls within the body(C)centre of gravity and centre ofequilibrium fall within the feet(D)resultant weight of buckets is zero"
+    }, 
+    {
+        "question_statement": "aVinegara is a commercial name of", 
+        "answer_options": "(A) Oxalic acid(B) Hydrochloric acid(C) Acetic acid(D) Citric acid"
+    }, 
+    {
+        "question_statement": "In a refrigerator, the cooling system shouldalways be", 
+        "answer_options": "(A) at the top(B) at the bottom(C) at the middle(D) can be anywhere"
+    }, 
+    {
+        "question_statement": "Which metal does not undergo corrosion dueto the formation of oxide layer?", 
+        "answer_options": "(A) Copper(B) Iron(C) Aluminium(D) Zinc"
+    }, 
+    {
+        "question_statement": "Submarines move under water. They haveengines that run on", 
+        "answer_options": "(A) Petrol and oxygen(B) Diesel(C) Batteries(D) Steam"
+    }, 
+    {
+        "question_statement": "The Bhopal gas tragedy was caused by  the gas", 
+        "answer_options": "(A) Methyl chloride(B) Methyl Iso Cyanide(C) Methyl Iso Cyanate(D) Methyl Cyanide"
+    }, 
+    {
+        "question_statement": "Light combat aircraftCodes:ABCD", 
+        "answer_options": "(A)2314(B)1423(C)2413(D)"
+    }, 
+    {
+        "question_statement": "Surcharge on income tax and stampduty go exclusively to the States.Which of the statements given above is/are correct?", 
+        "answer_options": "(A)1 only(B)2 only(C)Both 1 and 2(D)Neither 1 nor 2\f"
+    }, 
+    {
+        "question_statement": "KampteeMilitary LawCodes:ABCD", 
+        "answer_options": "(A)3412(B)1234(C)3214(D)"
+    }, 
+    {
+        "question_statement": "Which one of the following pairs is notcorrectly matched?OrganizationHeadquaters", 
+        "answer_options": "(A)Asian Development:ManilaBank(B)Organization of:WashingtonAmerican States(OAS)(C)Commonwealth of:MinskIndependent States(CIS)(D)South Asian:ColomboAssociation forRegional Cooperation(SAARC)"
+    }, 
+    {
+        "question_statement": "Deepika Kumari is associated with thegame of -------.", 
+        "answer_options": "(A) Golf(B) Archery(C) Lawn Tennis(D) Hockey"
+    }, 
+    {
+        "question_statement": "The next G-20 Summit will be held inSeptember, 2013 in -------.", 
+        "answer_options": "(A) Russia(B) China(C) India(D) Japan"
+    }, 
+    {
+        "question_statement": "In which year Swarna Jayanti ShahariRozgar Yojana was launched?", 
+        "answer_options": "(A) 1998(B) 1997(C) 2000(D) "
+    }, 
+    {
+        "question_statement": " India has won how many medals at recentlyconcluded olympic games?", 
+        "answer_options": "(A) 7(B) 6(C) 5(D) "
+    }, 
+    {
+        "question_statement": "The 2012 Olymipcs were held in which ofthe following country?", 
+        "answer_options": "(A) London(B) Tokyo(C) Brazil(D) Washington\f"
+    }, 
+    {
+        "question_statement": "He went on sowing wild oats; he reapedsufferings in his old age.", 
+        "answer_options": "(A)Inviting troubles as a boy(B)Warning others as a young man(C)Irresponsible pleasure seeking in youngage(D)Sowing gains called oats when young"
+    }, 
+    {
+        "question_statement": "I donat know why she has become stand-offish recently.", 
+        "answer_options": "(A)Angry(B)Hilarious(C)Indifferent(D)Unmanageable"
+    }, 
+    {
+        "question_statement": "I cannot put up with your misconduct anylonger.", 
+        "answer_options": "(A)Excuse(B)Refuse(C)Accept(D)Tolerate"
+    }, 
+    {
+        "question_statement": "I did not mind what he was saying, he wasonly talking through his hat.", 
+        "answer_options": "(A)Talking nonsense(B)Talking ignorantly(C)Talking irresponsibly(D)Talking insultinglyPart - IV (English Comprehension)"
+    }, 
+    {
+        "question_statement": "He is so furious that he would go throughfire and water to revenge himself on his foe.", 
+        "answer_options": "(A)Approach everybody for help(B)Avail himself of any opportunity(C)Use any conceivable method(D)Undergo any riskDirections (161-165): In the followingquestions,  out of four option only  one wordis correctly spelt. Find the word and indicateit in the Answer Sheet by blackening theappropriate rectangle."
+    }, 
+    {
+        "question_statement": "One who collects coins", 
+        "answer_options": "(A)Archaeologist(B)Numismatist(C)Philatelist(D)Connoisseur"
+    }, 
+    {
+        "question_statement": "A system of Government in which only agroup functions-", 
+        "answer_options": "(A)Oligarchy(B)Dictatorship(C)Totalitarianism(D)Theocracy"
+    }, 
+    {
+        "question_statement": "Customs and habits of a particular group:", 
+        "answer_options": "(A)Mores(B)Traditions(C)Rites(D)Rituals"
+    }, 
+    {
+        "question_statement": "A body of persons appointed to hearevidence and give their verdict in trials.", 
+        "answer_options": "(A)Association(B)Council(C)Bar(D)Jury"
+    }, 
+    {
+        "question_statement": "Indifference to pleasure or pain", 
+        "answer_options": "(A)Perseverance(B)Tolerance(C)Stoicism(D)ReticenceDirections (181-185): In the followingquestions, out of the four alternatives, choosethe one which best expresses the meaning ofthe given bold word."
+    }, 
+    {
+        "question_statement": "Irreverence", 
+        "answer_options": "(A)disrespect(B)cruelty(C)unkindness(D)invalidity"
+    }, 
+    {
+        "question_statement": "Amicable", 
+        "answer_options": "(A)poisonous(B)friendly(C)satisfying(D)heartening"
+    }, 
+    {
+        "question_statement": "Prudent", 
+        "answer_options": "(A)wise(B)experienced(C)cautious(D)criminal"
+    }, 
+    {
+        "question_statement": "Panacea", 
+        "answer_options": "(A)flatter(B)praise(C)inactivity(D)cure-all"
+    }, 
+    {
+        "question_statement": "Benevolence", 
+        "answer_options": "(A)ill will(B)morbidity(C)kindness(D)visionDirections (186-190): In the followingquestions, out of four alternatives, choose theone which best expresses the opposite meaningof the word given in Capital letters."
+    }, 
+    {
+        "question_statement": "SMUG", 
+        "answer_options": "(A)authentic(B)dissatisfied(C)satisfaction(D)fictitious"
+    }, 
+    {
+        "question_statement": "REPEL", 
+        "answer_options": "(A)attend(B)concentration(C)continue(D)attract"
+    }, 
+    {
+        "question_statement": "APPALLING", 
+        "answer_options": "(A)shocking(B)consoling(C)scaring(D)horrifying"
+    }, 
+    {
+        "question_statement": "JEST", 
+        "answer_options": "(A)gravity(B)grim(C)genial(D)sport"
+    }, 
+    {
+        "question_statement": "CURTAIL", 
+        "answer_options": "(A)lengthen(B)shorten(C)entail(D)closeDirections (191-195): In the followingquestions, you have a brief passage with fivequestions following the passage. Read thepassage carefully and choose the best answerof each question out of the four alternatives.Among the natural resources which can becalled upon in national plan for development,possibly the most important is human labour;without productive labour force, includingeffective leadership and intelligent middlemanagement, no amount of foreign assistance ofnatural wealth can ensure successfuldevelopment and modernization. One essentialfactor is usually overlooked or ignored. Theforgotten factor is the role of women. Developmentwill be handicapped as long as women remainsecond-class citizens, uneducated, without anyvoice in family or community decisions, withoutlegal or economic status, married when they arestill practically children, and thenceforthproducing one baby after another, often only tosee half of them die before they are of school age.We can enhance development by improvingawoman powera by giving women opportunity todevelop themselves."
+    }, 
+    {
+        "question_statement": "The most important natural resource fornational development is", 
+        "answer_options": "(A)human labour(B)effective leadership(C)intelligent middle management(D)foreign assistance\f"
+    }, 
+    {
+        "question_statement": "Human power means", 
+        "answer_options": "(A)only men(B)only women(C)people including children(D) both men and women"
+    }, 
+    {
+        "question_statement": "The ignored and overlooked factor in thedevelopment of the nation is", 
+        "answer_options": "(A)role of women(B)role of middle management(C)role of child labour(D)role of foreign assistance"
+    }, 
+    {
+        "question_statement": "Women have hardly", 
+        "answer_options": "(A)any voice in family or communitydecisions(B)any economic or legal status(C)any voice in family or communitydecision or legal or economic status(D)any voice to decide about themselves"
+    }, 
+    {
+        "question_statement": "Woman power is", 
+        "answer_options": "(A)an essential power in the developmentof the nation(B)an essential power in child production(C)an essential power in marriages(D)an essential factor for the death ofchildrenDirections (196-200): In the followingquestions, sentences are given with blanks tobe filled in with an appropriate word(s). Fouralternatives are suggested for each question.Choose the correct alternative out of the four."
+    }, 
+    {
+        "question_statement": "His wife has a twin who resembles eachother so much that at first he had greattrouble tellinga|a|a|..", 
+        "answer_options": "(A)one from the other(B)one from another(C)each other(D)who is which"
+    }, 
+    {
+        "question_statement": "At great length, that night they a|.. thefeasibility of their plans.", 
+        "answer_options": "(A)discussed about(B)discussed(C)discussed regarding(D)discussed on"
+    }, 
+    {
+        "question_statement": "Will those of you who have objections to thisproposal a|a| put up your hands, please?", 
+        "answer_options": "(A)discussed(B)being discussed(C)having discussed(D)discussing"
+    }, 
+    {
+        "question_statement": "She has frequent toothaches. So she decidedto a|a|.", 
+        "answer_options": "(A)remove her teeth(B)removing her teeth(C)have her teeth removed(D)having her teeth removed"
+    }, 
+    {
+        "question_statement": "At one time, Mr. Shukla ... this supermarket.", 
+        "answer_options": "(A)was owing(B)use to own(C)had owned(D)owned\f"
+    }
+]
